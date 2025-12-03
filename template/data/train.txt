@@ -1,0 +1,2233 @@
+*CHI:	no.
+*MOT:	and sit down.
+*CHI:	there a napkin.
+*MOT:	they are napkins yes.
+*MOT:	turn around and finish your lunch.
+*COL:	I think you'd better finish your lunch and then we'll go.
+*CHI:	take a nap.
+*MOT:	right.
+*CHI:	Mom where my new blanket?
+*MOT:	your new clean blanket's up in your bed.
+*CHI:	in bed sleeping.
+*MOT:	it's not sleeping.
+*MOT:	it's just laying there.
+*COL:	Eve is it a clean new blanket?
+*CHI:	upstairs in bed.
+*COL:	clean new blanket?
+*CHI:	yeah.
+*COL:	new clean blanket?
+*CHI:	][laughs]
+*CHI:	oh no.
+*MOT:	no it's not in the living room.
+*CHI:	no.
+*MOT:	no where is it?
+*CHI:	uh Fraser living room.
+*MOT:	in Fraser's living room?
+*MOT:	where is your blanket?
+*CHI:	uh in Cromer living room.
+*MOT:	what's it doing in Cromer's living room.
+*MOT:	who put it there?
+*MOT:	who put your blanket in Fraser's living room?
+*CHI:	our living room.
+[Mother says Eve is just beginning to use "our"]
+[tells Colin about "our car"]
+*CHI:	green are.
+*MOT:	green are what?
+*CHI:	car.
+*MOT:	green car?
+*CHI:	yeah.
+*MOT:	where's the green car?
+*CHI:	on t v.
+*MOT:	on t v?
+*MOT:	six little taxis standing in a row.
+[there had been six colored taxis on TV that morning]
+*MOT:	there was a green one.
+*CHI:	was a green one.
+*MOT:	there was a green one.
+*CHI:	had a taxi.
+*MOT:	taxi uhhuh.
+*MOT:	how many taxis were there?
+*CHI:	on t v.
+*MOT:	I know they were on t v.
+*MOT:	but how many taxis were there?
+*CHI:	on show.
+*MOT:	hm?
+*CHI:	on the show.
+*MOT:	on the shelf?
+*MOT:	all in a row?
+*MOT:	Eve please finish your lunch.
+*CHI:	no.
+*MOT:	are you all done then?
+*CHI:	yeah.
+*MOT:	okay.
+
+= = = childes/CHILDES_NA/Brown/Eve/010800.cha = = =
+*CHI:	more grape juice.
+*MOT:	more?
+*CHI:	no.
+*MOT:	didn't think so.
+*CHI:	no Eve play bouillon cube.
+*MOT:	you must put the blocks in the box first before you can play with the bouillon cubes...
+*MOT:	put the blocks away first.
+*CHI:	a block first.
+*COL:	what's this?
+[pointing at jug]
+*CHI:	[follows along in book.]
+*COL:	you sit by me.
+*COL:	eh?
+*CHI:	there.
+*COL:	there.
+*CHI:	Fraser read Eve Lassie.
+*COL:	okay.
+*COL:	[reads]
+*COL:	that's Lassie.
+*CHI:	that Lassie.
+*COL:	mhm.
+*COL:	that's Lassie.
+*COL:	what are you going to do now?
+*CHI:	Fraser gink Lassie.
+*MOT:	no he doesn't wanna read Lassie again.
+*MOT:	he doesn't wanna read Lassie.
+*CHI:	taperecorder.
+*CHI:	Fraser taperecorder floor.
+*MOT:	it's on the floor.
+*MOT:	that's right.
+*CHI:	Mom get red bicycle.
+[3-4 name of book]
+*MOT:	get the red bicycle?
+*MOT:	where is it?
+*MOT:	where are they?
+*CHI:	here.
+*MOT:	say music Eve.
+*MOT:	music.
+*MOT:	say music Eve.
+*MOT:	music.
+*MOT:	did you find the bicycle?
+*MOT:	did you find the little red bicycle?
+*CHI:	yep.
+[has the book.]
+*MOT:	where's the little red bicycle Eve?
+*COL:	where is it?
+*CHI:	[turns book to front cover picture of red bicycle]
+*COL:	ah yes.
+*CHI:	what doing Mommy?
+*MOT:	what?
+*CHI:	what doing Mommy?
+*MOT:	I'm making tapioca for your lunch.
+*CHI:	make tapioca lunch.
+*MOT:	for your lunch yes.
+*CHI:	Fraser.
+*MOT:	Fraser.
+*MOT:	uhhuh.
+*CHI:	Cromer.
+*MOT:	no.
+*MOT:	when's Cromer coming?
+*CHI:	on Wednesday.
+*MOT:	on Wednesday.
+*MOT:	that's right.
+*CHI:	Eve jump Mommy kitchen.
+*MOT:	you're jumping in Mommy's kitchen?
+*MOT:	why don't you jump in the living room?
+*MOT:	go and jump in the living room.
+*CHI:	go jump living room.
+*MOT:	yes you jump in the living room.
+*CHI:	jump living room.
+[not clear what this means]
+*CHI:	jump living room.
+[not clear what this means]
+*CHI:	jump living room.
+[not clear what this means]
+*CHI:	jump living room.
+[not clear what this means]
+*CHI:	Mommy make tapioca lunch.
+[not clear what this means]
+*CHI:	Mom Mommy make Eve tapioca lunch.
+[not clear what this means]
+*CHI:	Eve make xxx tapioca.
+[not clear what this means]
+*CHI:	my tapioca.
+[not clear what this means]
+*MOT:	what are you doing?
+*CHI:	Eve make tapioca.
+*MOT:	no I'm almost finished.
+*MOT:	I'm almost finished.
+*MOT:	you stay in the living room.
+*CHI:	Eve making tapioca.
+*MOT:	but I'm almost finished.
+*CHI:	tapioca.
+[insistent, half crying]
+*MOT:	do you wanna help me turn?
+*CHI:	yeah.
+[Mother says "sit by me" same as "sit by you", though sometimes correct, no apparent pattern to it. "me" used rather than "I"]
+*CHI:	Mom make a tapioca.
+*MOT:	yes.
+*CHI:	that?
+*MOT:	what is that?
+*CHI:	hot.
+*MOT:	it's hot.
+*MOT:	but what is it?
+*CHI:	Eve tapioca.
+*MOT:	yes.
+*MOT:	it's hot tapioca.
+*CHI:	hot tapioca.
+*CHI:	that?
+*MOT:	it's hot water.
+*CHI:	xxx water hot.
+*CHI:	Eve tapioca hot.
+*MOT:	uhhuh.
+*CHI:	hot.
+*MOT:	mhm.
+*CHI:	and cool.
+*MOT:	and cool yes.
+*MOT:	by the time you have lunch it'll be cool.
+*CHI:	that?
+*MOT:	what is that?
+*MOT:	vanilla.
+*CHI:	vanilla.
+*MOT:	vanilla.
+*CHI:	vanilla.
+*MOT:	vanilla.
+*CHI:	Eve play bouillon cube.
+*MOT:	you can play with the bouillon cubes if you put the blocks back in the box.
+*MOT:	cmon I'll help.
+*CHI:	help me.
+*MOT:	yes I'll help.
+*MOT:	you help me put them in the box.
+*MOT:	you can help me put them in the box.
+*MOT:	then you'll get the bouillon cubes.
+*CHI:	in box.
+*MOT:	that's right.
+*CHI:	Eve cry.
+[she had just been crying]
+*MOT:	why were you crying?
+*MOT:	hm?
+*CHI:	Eve put blocks Mommy.
+*MOT:	yes you help me put the blocks away.
+*CHI:	tinkertoy doing there?
+*MOT:	what is that tinkertoy doing in there?
+*MOT:	it doesn't belong in there.
+*CHI:	there more.
+*MOT:	more.
+*MOT:	alright.
+*CHI:	tinkertoy.
+*MOT:	no it doesn't belong in that box.
+*MOT:	it belongs in the tinkertoy box.
+*MOT:	there.
+*CHI:	there.
+*MOT:	there's one by the rocking chair.
+*CHI:	by.
+[Eve doesn't seem to look at rocking chair.]
+*MOT:	by the rocking chair there's one.
+*MOT:	the rocking chair.
+*CHI:	by rockchair.
+*CHI:	get it.
+*MOT:	that's right.
+*MOT:	now are there any more?
+*CHI:	yeah.
+*MOT:	where?
+*MOT:	there's one under the table.
+*MOT:	under the table.
+*CHI:	[gets it.]
+*MOT:	there's one under the other chair.
+*MOT:	under the other chair by the window.
+*MOT:	over by the couch.
+*MOT:	by the couch under the chair.
+*MOT:	see it?
+*MOT:	over by the couch.
+*MOT:	the chair.
+*MOT:	the chair by the couch.
+*MOT:	under.
+*CHI:	under.
+*MOT:	under the chair by the couch.
+*CHI:	I seed it.
+*MOT:	you see it?
+*MOT:	okay.
+*MOT:	now what?
+*CHI:	Eve play bouillon cube.
+*MOT:	alright.
+*MOT:	now we'll play with the bouillon cubes.
+*MOT:	thank you.
+*CHI:	thank you.
+*MOT:	yes.
+*CHI:	Eve play the bouillon cube.
+*MOT:	there.
+*CHI:	Mom open.
+*MOT:	ask Fraser if he'll open it for you.
+*CHI:	[she dropped it.].
+*COL:	what do you want me to do?
+*COL:	what do I hafta do?
+*CHI:	op' bouillon cube.
+*COL:	okay.
+*CHI:	op' it bouillon cube.
+[2 whisper]
+*CHI:	[gets another container]
+*MOT:	I didn't think you'd miss it.
+*MOT:	this one's empty.
+*MOT:	that one's empty.
+*CHI:	empty.
+*MOT:	it's empty yes.
+*CHI:	empty.
+[showing it to Fraser.]
+*COL:	yes.
+*CHI:	[push lost can back into view].
+[Mother says Eve has often been told that someone will come back. she is impressed when he does.]
+*CHI:	come back.
+[Mother says Eve has often been told that someone will come back. she is impressed when he does.]
+*CHI:	Eve find top.
+*MOT:	what?
+*CHI:	Eve find top.
+*MOT:	where do you find the top?
+*MOT:	where is it?
+*MOT:	hm?
+*CHI:	where top?
+*MOT:	I don't know.
+*MOT:	find it.
+*CHI:	no.
+*MOT:	where is it?
+*CHI:	Fraser coat.
+*MOT:	Fraser's coat?
+*MOT:	is it by Fraser's coat?
+*CHI:	yeah.
+*MOT:	is it?
+*MOT:	well you go and find it.
+*MOT:	is it there?
+*CHI:	yeah.
+*MOT:	you get it then.
+*MOT:	it's lost.
+*MOT:	too bad.
+*CHI:	too bad.
+*MOT:	too bad.
+*CHI:	too bad.
+*COL:	what top is it you're looking for?
+*CHI:	want find top.
+*CHI:	no a top.
+*COL:	the top for what?
+*COL:	what top?
+*CHI:	no.
+*MOT:	where is it?
+*MOT:	it's right there on the floor.
+*MOT:	you see it?
+*CHI:	see it.
+*MOT:	that one has a top.
+*CHI:	xxx see it.
+*MOT:	here's the other top.
+*MOT:	right there.
+*MOT:	that's the other one.
+*CHI:	that other one.
+*MOT:	yes.
+*CHI:	get back.
+*CHI:	what doing Mommy?
+*MOT:	I'm making orange peel.
+*CHI:	orange...
+*MOT:	peel.
+*CHI:	peel.
+*CHI:	hi.
+*COL:	hi.
+*COL:	are those your bouillon cubes?
+*CHI:	xxx bouillon cube.
+*CHI:	Mommy.
+*MOT:	what?
+*CHI:	that?
+*MOT:	what?
+*CHI:	Eve sit Mom lap.
+*MOT:	you wanna sit on my lap?
+*MOT:	oh but I'm very busy...
+*MOT:	you can sit on my lap later.
+*CHI:	Eve sit on Mommy lap.
+*MOT:	you can sit out here by me on the other stool.
+*CHI:	by me.
+*MOT:	yes on the stool.
+*MOT:	but you'd better get the big stool Eve.
+*MOT:	not the little stool the big one.
+*CHI:	big one.
+[puts down little stool]
+*MOT:	the big one.
+*CHI:	the big xxx one.
+*MOT:	the big one like I'm sitting on.
+*MOT:	the big stool.
+*CHI:	a big xxx stool.
+*MOT:	yes you get the other big stool.
+*CHI:	Pap study.
+*MOT:	it's not in Papa's study.
+*MOT:	it's under the taperecorder.
+*CHI:	the taperecorder.
+*MOT:	I'm sorry.
+*MOT:	it's not.
+*MOT:	it's beside the taperecorder.
+*MOT:	beside the taperecorder.
+*MOT:	that one.
+*CHI:	that one.
+[picks up another little stool]
+*MOT:	no the big stool.
+*MOT:	like this one.
+*MOT:	the big stool like I'm sitting on.
+*CHI:	Eve stool.
+*MOT:	right by the taperecorder.
+*CHI:	right taperecorder.
+*MOT:	the big stool.
+*CHI:	big xxx stool.
+*MOT:	right.
+*CHI:	by taperecorder.
+*MOT:	that one.
+*CHI:	that a one.
+*CHI:	the banjo.
+*MOT:	I know it's your banjo.
+*CHI:	come back.
+*MOT:	there.
+*MOT:	are you gonna sit down on the stool?
+*CHI:	Eve sit down.
+*MOT:	well this is my stool.
+*MOT:	you sit on the other side.
+*CHI:	Mommy stool.
+*MOT:	this is Mommy's stool right.
+*CHI:	Eve sit down 'nother...
+*CHI:	Eve came back.
+*MOT:	hm?
+*CHI:	Eve came back.
+*MOT:	you came back?
+*CHI:	yeah.
+*CHI:	Eve tapioca.
+*MOT:	that's right.
+*MOT:	you're gonna have some for lunch.
+*CHI:	that?
+*MOT:	it's an orange peel.
+*CHI:	orange peel.
+*MOT:	Mommy's gonna make a goodie.
+*CHI:	make cookie.
+*MOT:	make a goodie.
+*CHI:	that?
+*MOT:	that's more orange peel.
+*CHI:	make a gookie.
+*MOT:	goodie uhhuh.
+*CHI:	Eve sit bottom.
+*MOT:	you sit on your bottom?
+*MOT:	alright.
+*CHI:	Mommy sit bottom.
+*MOT:	Mommy's sitting on her bottom.
+*MOT:	right.
+*CHI:	that?
+*MOT:	the cooker.
+*CHI:	that?
+*MOT:	that's the stove but you don't touch the stove...
+*CHI:	that?
+*MOT:	that's part of the stove.
+*CHI:	that?
+*MOT:	more.
+*CHI:	that?
+*MOT:	that's another part of the stove.
+*CHI:	that?
+*MOT:	what's that?
+*CHI:	more.
+*CHI:	that?
+*CHI:	xxx hot.
+*MOT:	it is hot...
+*CHI:	that?
+*MOT:	what's that?
+*CHI:	water.
+*MOT:	mhm.
+*CHI:	came back.
+*MOT:	what's that?
+*CHI:	came back.
+*MOT:	what?
+*CHI:	captain Bob.
+*MOT:	captain Bob?
+*MOT:	no.
+*MOT:	will you please sit on your stool.
+*MOT:	you're in my way.
+*MOT:	please sit on your stool.
+*CHI:	on stool Mommy way.
+*MOT:	you're in my way.
+*MOT:	yes put your foot on your own stool.
+*MOT:	on your own stool.
+*CHI:	own stool.
+*MOT:	that's right.
+*MOT:	this is my stool and that belongs to you.
+*CHI:	Mommy help.
+*MOT:	help?
+*MOT:	what do you want?
+*CHI:	Mommy help.
+*MOT:	help you with your water?
+*CHI:	Eve help.
+[gets down]
+*CHI:	Eve help.
+[gets down]
+*MOT:	you can get down by yourself.
+*MOT:	big girl.
+*MOT:	yes you did.
+*MOT:	all by yourself.
+*CHI:	again.
+*MOT:	again?
+*MOT:	alright.
+*CHI:	big self.
+*MOT:	by yourself.
+*MOT:	uhhuh.
+*CHI:	Mommy sit Eve stool.
+*MOT:	what?
+*CHI:	Mommy sit Eve stool.
+*MOT:	I'm not sitting on your stool.
+*MOT:	I'm not on your stool.
+*CHI:	my Eve stool.
+*MOT:	oh my foot?
+*MOT:	you want me to move my foot?
+*CHI:	yep.
+*CHI:	again.
+*MOT:	what are you doing?
+*CHI:	not again.
+*MOT:	not what?
+*CHI:	Eve hand pocket.
+*MOT:	oh your hand's in your pocket.
+*CHI:	Eve puzzle.
+*MOT:	that's your puzzle.
+*CHI:	Mommy find Eve puzzle.
+*MOT:	want me to find the rest of it.
+*CHI:	yeah.
+*MOT:	alright.
+*MOT:	is it in the toy box?
+*CHI:	yeah.
+*MOT:	well we'll see if it's in the toy box.
+*MOT:	there's another one.
+*CHI:	in the toy xxx box.
+*CHI:	toy box.
+*CHI:	xxx Becky puzzle.
+*MOT:	no that's not Becky's puzzle.
+*MOT:	that's Eve's puzzle.
+*CHI:	Becky have puzzle.
+*MOT:	that's right.
+*MOT:	Becky's puzzle's at home.
+*CHI:	[play with puzzle].
+[sing-song]
+*CHI:	came back.
+[sing-song]
+*CHI:	came back.
+[sing-song]
+*CHI:	came back.
+[sing-song]
+*CHI:	came back.
+[sing-song]
+*CHI:	Eve fix Eve puzzle.
+*MOT:	you fixed your puzzle?
+*MOT:	why don't you try again?
+*CHI:	[play with puzzle]]
+*MOT:	you put them in the holes.
+*MOT:	put the pieces in the holes.
+*CHI:	piece a hole.
+[prances around room.]
+*CHI:	Eve horsie.
+[prances around room.]
+*MOT:	you're a horsie?
+*CHI:	yeah.
+*MOT:	what's your name when you're a horsie?
+*CHI:	Eve Clip clop.
+[name of horse in book]
+*MOT:	you're Clip clop when you're a horsie.
+*MOT:	that's right.
+*MOT:	you be a horsie and run fast.
+*CHI:	Eve horsie.
+*MOT:	yes you are a horsie.
+*CHI:	Eve Clip clop.
+*MOT:	you're Clip clop.
+*MOT:	right.
+*CHI:	[stopped].
+*MOT:	you were running fast.
+*CHI:	xxx came back.
+*CHI:	that?
+[coin-like picture of baseball player's head]
+*MOT:	oh I'm not sure.
+*MOT:	let me see.
+*CHI:	man.
+*MOT:	there's a man on it yes.
+*MOT:	this is a coin.
+*MOT:	a coin.
+*MOT:	a baseball coin.
+*CHI:	man.
+*MOT:	picture of a man mhm.
+*MOT:	why don't you put the man in your pocket?
+*MOT:	put the man in your pocket.
+*CHI:	xxx pocket.
+*MOT:	yeah put him in your pocket.
+*CHI:	there.
+[Mother had said this previously]
+*CHI:	xxx came a man.
+[Mother had said this previously]
+*MOT:	here comes the man?
+*MOT:	coming out of your pocket?
+*CHI:	came a man.
+*CHI:	that?
+*CHI:	baseball coin.
+*MOT:	baseball.
+*MOT:	baseball coin.
+*CHI:	baseball coin.
+[Mother says this had been completely new utterance]
+[sing-song]
+*CHI:	came back.
+[Mother says this had been completely new utterance]
+[sing-song]
+*CHI:	came back.
+[Mother says this had been completely new utterance]
+[sing-song]
+*CHI:	came back.
+[Mother says this had been completely new utterance]
+[sing-song]
+*CHI:	man baseball coin.
+[Mother says this had been completely new utterance]
+[sing-song]
+*CHI:	baseball coin.
+[Mother says this had been completely new utterance]
+[sing-song]
+*CHI:	baseball coin.
+[Mother says this had been completely new utterance]
+[sing-song]
+*CHI:	baseball coin.
+[Mother says this had been completely new utterance]
+[sing-song]
+*CHI:	baseball coin.
+[Mother says this had been completely new utterance]
+[sing-song]
+*CHI:	baseball coin.
+[Mother says this had been completely new utterance]
+[sing-song]
+*CHI:	baseball coin.
+[Mother says this had been completely new utterance]
+[sing-song]
+*CHI:	baseball coin.
+[Mother says this had been completely new utterance]
+[sing-song]
+*CHI:	baseball coin.
+[Mother says this had been completely new utterance]
+[sing-song]
+*CHI:	baseball coin.
+[Mother says this had been completely new utterance]
+[sing-song]
+*CHI:	baseball coin.
+[Mother says this had been completely new utterance]
+[sing-song]
+*CHI:	came back.
+*CHI:	xxx came...
+*CHI:	there sugar Fraser.
+*MOT:	what?
+*CHI:	there sugar Fraser.
+*MOT:	well you ask Fraser if he'd like some more coffee.
+*CHI:	Fraser more coffee.
+*MOT:	is there more coffee?
+*CHI:	yep.
+*MOT:	would he like sugar in his coffee?
+*CHI:	yep.
+*CHI:	Fraser more coffee.
+*MOT:	yes I'll give him more coffee.
+*MOT:	you get your sugar bowl.
+*CHI:	you sugar bowl.
+*MOT:	your sugar bowl.
+*CHI:	Fraser napkin.
+*MOT:	that's his napkin.
+*MOT:	right.
+*CHI:	hi.
+*MOT:	hi.
+*CHI:	hi.
+*CHI:	Eve xxx pencil.
+*MOT:	Eve.
+*MOT:	is this my pencil?
+*CHI:	xxx pencil.
+*CHI:	Eve xxx pencil.
+*MOT:	where is your pencil?
+*CHI:	xxx table.
+*MOT:	Eve would you bring me Fraser's cup?
+*MOT:	you bring me Fraser's cup and we'll give him some more coffee.
+*CHI:	bring cup.
+*MOT:	right.
+*CHI:	bring cup.
+*MOT:	right.
+*CHI:	[brings it]
+*MOT:	thank you.
+*CHI:	sugar coffee.
+*MOT:	he'll put sugar in his coffee.
+*MOT:	uhhuh.
+*CHI:	Eve tapioca.
+*MOT:	you can have tapioca at lunch time.
+*MOT:	it's not ready yet.
+*CHI:	ready yet not ready yet.
+*MOT:	it's not ready yet.
+*CHI:	jump Mommy kitchen.
+*MOT:	that was jump in Mommy's kitchen!
+*CHI:	taperecorder.
+*MOT:	mhm.
+*CHI:	'nother taperecorder.
+*CHI:	two four five six.
+*CHI:	one two three four five.
+*COL:	very very good.
+*CHI:	one two three four five.
+*CHI:	one two three five.
+*COL:	seven eight nine ten.
+*CHI:	one two three four.
+*CHI:	one two four.
+*COL:	you say this.
+*COL:	three nine six.
+*COL:	you say that.
+*COL:	three nine six.
+*CHI:	tapioca.
+*MOT:	yeah you want tapioca don't you.
+*MOT:	are you ready for your lunch?
+*CHI:	yep.
+*MOT:	alright.
+*MOT:	move your highchair.
+*CHI:	move a highchair.
+*MOT:	move the highchair.
+*CHI:	Mommy.
+*MOT:	what?
+*CHI:	xxx look at the highchair.
+[Eve in high chair]
+*MOT:	cheese?
+*MOT:	would you like some cheese?
+*CHI:	want tapioca.
+*MOT:	you will have tapioca in just a second.
+[mumbles.]
+*MOT:	what?
+*CHI:	that?
+[taking cheese out of mouth]
+*MOT:	it's cheese.
+*MOT:	oh I'm sorry there's a piece of paper on it.
+*MOT:	a piece of paper.
+*MOT:	it probably didn't taste very good did it?
+*CHI:	hm?
+*CHI:	paper.
+*MOT:	there was paper on your cheese.
+*MOT:	there it's alright now.
+*CHI:	oh paper cheese.
+*MOT:	what sweetie?
+*CHI:	a paper cheese.
+*MOT:	paper on the cheese yes.
+*CHI:	tapioca.
+*COL:	is that my lunch?
+*COL:	is it?
+*COL:	is it my lunch?
+*CHI:	Eve lunch.
+*COL:	yes your lunch.
+*CHI:	more.
+*MOT:	more what?
+*CHI:	more tapioca.
+*MOT:	alright.
+[leaves room.]
+*MOT:	I'll give you more tapioca.
+[leaves room.]
+*MOT:	I'll be right back.
+[leaves room.]
+*COL:	is that nice tapioca?
+*CHI:	yeah.
+[as soon as she came in door]
+*CHI:	Mommy came back.
+[as soon as she came in door]
+*MOT:	yeah Mommy did come back.
+*CHI:	right.
+*MOT:	right.
+*COL:	excuse me Eve.
+*CHI:	'cuse me.
+*CHI:	Eve more grape juice.
+*MOT:	more?
+*CHI:	yeah.
+*CHI:	hi.
+*COL:	hi.
+*CHI:	Eve have that.
+*MOT:	what is that?
+*CHI:	Mommy.
+*MOT:	Mommy's what?
+*CHI:	Mommy...
+*CHI:	this.
+*MOT:	what is it?
+*CHI:	Mommy napkin.
+*MOT:	I'm gonna give that to Fraser.
+*MOT:	it's Fraser's napkin.
+*CHI:	xxx Fraser napkin.
+[giving sugar to Colin]
+*CHI:	sugar there.
+[giving sugar to Colin]
+*COL:	oh thank you very much.
+*COL:	thank you.
+*CHI:	Eve hi.
+*COL:	hi.
+*CHI:	Eve hi.
+*MOT:	did you tell him hi?
+*CHI:	yeah.
+*CHI:	Eve run Papa study.
+*MOT:	you ran in Papa's study?
+*MOT:	well you run right back out again.
+*CHI:	right Papa study.
+*CHI:	Eve hi Fraser.
+*CHI:	hi.
+*COL:	hi.
+*CHI:	hi.
+*RIC:	hi.
+*CHI:	Eve hi Cromer.
+*MOT:	did you tell Cromer hi too?
+*CHI:	hi.
+*RIC:	hi.
+*CHI:	Eve hi Cromer.
+*MOT:	were you glad to see them?
+*CHI:	yep.
+*CHI:	Eve Ann need Mommy napkin.
+*MOT:	I don't need a napkin.
+*MOT:	what do you mean?
+*MOT:	hm?
+*CHI:	Eve graham cracker.
+*MOT:	there aren't any graham crackers sweetie.
+*MOT:	do you want one of these?
+*CHI:	yeah.
+*MOT:	there.
+*CHI:	that?
+*MOT:	it's a Christmas tree.
+*CHI:	a Christmas tree.
+*MOT:	that's Christmas tree cookie.
+*CHI:	xxx Christmas tree cookie.
+*CHI:	that?
+*MOT:	those are nuts.
+*MOT:	you can't have those.
+*CHI:	nut.
+*CHI:	Mommy that?
+*CHI:	Christmas xxx.
+*MOT:	Christmas tree cookies uhhuh.
+*CHI:	Eve stand up Mommy stool.
+*MOT:	no don't you stand up on Mommy's stool.
+*MOT:	I wanna sit there...
+*MOT:	would you move hm?
+*CHI:	move Mommy.
+*CHI:	Eve climb down.
+*MOT:	yes you climb down thank you.
+*CHI:	Eve stool.
+*MOT:	are you going to sit out here?
+*CHI:	xxx beep.
+*CHI:	my way.
+*MOT:	I'm not in your way either.
+*CHI:	Eve sit down.
+*CHI:	that?
+*MOT:	icing.
+*CHI:	icing.
+*MOT:	icing for the cookies.
+*CHI:	that?
+*CHI:	icing.
+*MOT:	uhhuh.
+*CHI:	that?
+*MOT:	what is it?
+*CHI:	Christmas tree cookies.
+*CHI:	forgot grape juice table.
+*MOT:	you forgot it.
+*MOT:	it's on the table.
+*CHI:	forgot Christmas tree cookie.
+*MOT:	you forgot your Christmas tree cookie too.
+*CHI:	yeah.
+*MOT:	well why don't you go in and get them.
+*MOT:	go in and get them.
+*CHI:	go Christmas tree.
+*MOT:	go in and get them.
+*CHI:	Christmas tree cookie.
+*MOT:	yes the Christmas tree cookie.
+*MOT:	shall I put it there?
+*CHI:	Eve have Christmas tree.
+*MOT:	mhm you may have a Christmas tree when you finish your grape juice.
+*CHI:	see it.
+*CHI:	grape juice all gone.
+*MOT:	I see it.
+*MOT:	bring it here please.
+*CHI:	my.
+*MOT:	I know it's yours.
+*MOT:	would you bring it here and I'll put it in the sink so I can wash it.
+*CHI:	no.
+*MOT:	sure it's empty.
+*CHI:	empty.
+*CHI:	hi wait a minute more.
+*MOT:	uhhuh.
+*CHI:	wait a minute Fraser.
+*COL:	wait a minute Eve.
+*CHI:	wait a minute Cromer.
+*CHI:	hi.
+*COL:	hi.
+*CHI:	wait a minute...
+*CHI:	Eve wait Cromer.
+*MOT:	wait Cromer?
+*CHI:	yeah.
+[climbed up behind Richard]
+*CHI:	hi.
+[climbed up behind Richard]
+*CHI:	Eve under Cromer.
+[climbed up behind Richard]
+*CHI:	Eve under Cromer.
+[climbed up behind Richard]
+*MOT:	no you're behind Cromer.
+*CHI:	behind...
+*MOT:	not under behind.
+*CHI:	behind.
+*CHI:	behind Cromer.
+*CHI:	Eve behind Cromer.
+*CHI:	jump.
+*CHI:	jump couch.
+*CHI:	jump.
+*CHI:	jump couch.
+*CHI:	Eve 'hind Cromer again.
+[means going to go behind Cromer again]
+*CHI:	Eve 'hind Cromer.
+*FAT:	peekaboo.
+*CHI:	peekaboo.
+*CHI:	hi Cromer.
+*CHI:	peekaboo.
+*CHI:	Eve 'hind Cromer.
+*RIC:	where did Eve go?
+*RIC:	well where's Eve?
+*CHI:	jump.
+*RIC:	boom.
+*CHI:	boom.
+*CHI:	oh boom.
+*CHI:	hi.
+*COL:	hi.
+*CHI:	that?
+*CHI:	taperecorder.
+*CHI:	an' that a taperecorder.
+[pointing at each reel in turn]
+*CHI:	an' that a taperecorder.
+[pointing at each reel in turn]
+*CHI:	hi.
+*CHI:	what doing Mommy?
+*MOT:	I'm making cookies Eve.
+*CHI:	make cookie Eve.
+*MOT:	uhhuh.
+*CHI:	make a cookie Eve.
+*CHI:	Eve have a.
+*MOT:	have what?
+*CHI:	have xxx.
+*MOT:	have what?
+*CHI:	have a.
+*MOT:	have a what?
+*CHI:	that?
+*MOT:	what is that?
+*MOT:	what is it?
+*CHI:	Christmas tree cookie.
+*MOT:	right.
+*CHI:	want more.
+*MOT:	more?
+*MOT:	you eat that one first.
+*CHI:	that?
+*CHI:	Eve have a.
+*MOT:	icing.
+*CHI:	Eve have a.
+*MOT:	no it's not for you to play with.
+*CHI:	Eve have a.
+*MOT:	no sorry.
+*CHI:	Eve stove.
+*CHI:	Eve stove cookie Christmas cookie.
+*MOT:	but it doesn't belong in the stove.
+*MOT:	you take it out of the stove.
+*CHI:	take out...
+*CHI:	Mom help Christmas tree.
+*CHI:	there.
+*MOT:	now don't put it in there again.
+*MOT:	Eve you cannot have it.
+*CHI:	Eve have it.
+*MOT:	no you put it in the stove...
+*MOT:	you can't have it again.
+*CHI:	Eve have 'gain.
+*MOT:	you can't have it again.
+*CHI:	Eve have 'gain.
+*MOT:	no.
+*CHI:	Eve have a 'gain.
+*MOT:	no sorry.
+*CHI:	Eve have a 'gain.
+*MOT:	you can't have it anymore.
+*CHI:	Eve have a.
+*CHI:	have a.
+*MOT:	nope.
+*MOT:	I'm sorry.
+*CHI:	have a.
+*CHI:	Mommy?
+*MOT:	what?
+*CHI:	that Mommy.
+*MOT:	what?
+*CHI:	that Mommy.
+*MOT:	what?
+*CHI:	that Mommy.
+*CHI:	what doing Mommy?
+*MOT:	I'm decorating the cookies.
+*MOT:	I'm putting icing on them.
+*CHI:	icing xxx.
+*CHI:	Eve down.
+*MOT:	mhm you get down.
+*CHI:	get down xxx the stool.
+*MOT:	down the stool right.
+*CHI:	Eve xxx the stool.
+*RIC:	oh this is new one.
+*CHI:	new one.
+*RIC:	what is this?
+*CHI:	Humm.
+*RIC:	ham?
+*RIC:	Humm?
+*CHI:	Humm.
+*RIC:	is that a singing hamster?
+*CHI:	yes.
+*RIC:	oh what are those?
+*CHI:	fish.
+[pointing to fish tank]
+*RIC:	like these?
+*CHI:	yeah.
+*RIC:	like these in the bowl?
+*CHI:	yep.
+*MOT:	what's that?
+*CHI:	kitty.
+*MOT:	what?
+*CHI:	kitty.
+*MOT:	kitty?
+*CHI:	yep.
+*MOT:	and who's that?
+*CHI:	hamster.
+*MOT:	Humm the hamster.
+*CHI:	Humm hamster.
+*MOT:	and what's he doing?
+*CHI:	xxx play sandbox.
+*MOT:	yes he's playing in the sandbox.
+*CHI:	right.
+*MOT:	right.
+*CHI:	clock.
+*MOT:	oh look here he is again.
+*CHI:	look 'gain.
+*MOT:	what is that?
+*CHI:	Humm hamster.
+*MOT:	and what's that he's eating?
+*CHI:	banana.
+*MOT:	banana yes.
+*CHI:	parsley.
+*MOT:	parsley.
+*CHI:	peanut butter.
+*MOT:	right.
+*MOT:	peanut butter.
+*MOT:	xxx find him?
+*CHI:	xxx play block.
+*MOT:	where do they look for him here?
+*CHI:	xxx wastebasket.
+*MOT:	where do they look in here?
+*CHI:	xxx sandbox.
+*MOT:	yes in the sandbox.
+*MOT:	and they're looking behind what?
+*CHI:	goldfish.
+*MOT:	goldfish.
+*MOT:	and on top of what?
+*CHI:	bookcase.
+*MOT:	and they're looking under...
+*MOT:	what is this?
+*CHI:	under.
+*MOT:	yes they're looking under what?
+*CHI:	brown desk.
+*MOT:	Brown's desk.
+*CHI:	xxx table.
+*MOT:	they've got a table yes.
+*MOT:	they're eating lunch.
+*CHI:	eating lunch.
+*MOT:	but he's hiding.
+*MOT:	do you know where he's hiding?
+*CHI:	xxx hiding.
+*MOT:	do you know where?
+*CHI:	know where?
+*MOT:	what is this?
+*CHI:	goldfish.
+*MOT:	a goldfish.
+*CHI:	block.
+*MOT:	blocks.
+*MOT:	here's stairs.
+*MOT:	they're running down the stairs.
+*CHI:	running down stair.
+*MOT:	yes.
+*MOT:	and who is that?
+*CHI:	Humm.
+*MOT:	Humm the hamster.
+*CHI:	Humm the hamster.
+*MOT:	what is that?
+*CHI:	Humm burger.
+*MOT:	Humm burger.
+*MOT:	what is that?
+*CHI:	hamburger.
+*MOT:	hamburger.
+*MOT:	he's eating what?
+*CHI:	eating what.
+*MOT:	he's eating banana.
+*CHI:	eating banana.
+*MOT:	and he's eating what there?
+*CHI:	eating parsley.
+*MOT:	and he's eating what there?
+*CHI:	eating bacon.
+*MOT:	yes bacon.
+*MOT:	what's he hiding behind?
+*CHI:	goldfish.
+*MOT:	goldfish.
+*MOT:	oh that's a nice story.
+*CHI:	Humm again.
+*CHI:	again Humm.
+*MOT:	can you sing like Humm the hamster?
+*CHI:	no.
+*MOT:	no?
+*MOT:	can you hum like Humm the hamster?
+*CHI:	no.
+*MOT:	can you go mm?
+*MOT:	bet you can sing as good as Humm the hamster.
+*CHI:	no.
+*MOT:	yes.
+*CHI:	no.
+*MOT:	yes.
+*CHI:	no.
+*CHI:	Humm.
+*MOT:	Humm.
+*CHI:	Humm.
+*MOT:	Humm.
+*CHI:	mm.
+*MOT:	did you learn that from Humm the hamster?
+*CHI:	yep.
+*MOT:	can you sing Old Macdonald?
+*CHI:	nope.
+*MOT:	yes.
+*CHI:	no.
+*MOT:	I'll bet you can.
+*CHI:	no.
+[going over to coffee cup]
+*CHI:	no.
+[going over to coffee cup]
+*CHI:	Eve more.
+[going over to coffee cup]
+*CHI:	that?
+[going over to coffee cup]
+*CHI:	baa.
+[going over to coffee cup]
+*MOT:	oh that's the sheep.
+*CHI:	the sheep.
+*CHI:	it drop.
+*MOT:	what dropped?
+*CHI:	drop spoon.
+*CHI:	xxx drop napkin.
+*MOT:	you dropped what?
+*CHI:	read Frosty snowman.
+%add:	RIC
+*MOT:	is this Frosty the Snowman?
+*CHI:	yep.
+*MOT:	what's he holding?
+*CHI:	xxx holding xxx.
+*MOT:	and they started to roll what?
+*CHI:	roll snowman.
+*MOT:	snowballs.
+*CHI:	snowball.
+*MOT:	oh what did they use for the eyes?
+*CHI:	head.
+*CHI:	Frosty snowman pipe.
+*MOT:	pipe yes.
+*MOT:	and then they brought these red boots.
+*CHI:	red boot.
+*MOT:	that's a scarf.
+*CHI:	scarf Frosty snowma'.
+[3 means snowman]
+*MOT:	what are those?
+*CHI:	mitten.
+*MOT:	yes mittens.
+*MOT:	oh look what they found for him to wear.
+*CHI:	the hat.
+*MOT:	yes.
+*CHI:	a boot.
+*MOT:	what are they building here?
+*CHI:	they building here?
+*MOT:	oh what are they doing here?
+*CHI:	skating.
+*MOT:	skating?
+*MOT:	uhhuh.
+*MOT:	they all went ice-skating.
+*CHI:	went ice-skating.
+*CHI:	Frosty snowman.
+*MOT:	where are they going in this picture?
+*CHI:	going picture.
+*MOT:	going where?
+*MOT:	they're going shopping.
+*CHI:	going shopping.
+*MOT:	they're going down the street to where the shops were.
+*MOT:	oh look what are these?
+*CHI:	a street.
+*MOT:	they're what?
+*MOT:	who is that?
+*CHI:	Frosty snowman.
+*MOT:	yes.
+*MOT:	oh what happened to...
+*CHI:	happen hat.
+*MOT:	yes the hat came off.
+*CHI:	hat came off.
+*MOT:	where did Frosty the snowman go?
+*CHI:	policeman Frosty snowman.
+*MOT:	no that's not Frosty the snowman.
+*MOT:	who is that?
+*CHI:	policeman.
+*MOT:	who?
+*CHI:	policeman.
+*MOT:	yes he's the policeman.
+*CHI:	xxx will.
+[learned from book]
+*MOT:	and he will yes.
+*MOT:	and who is that?
+*CHI:	Frosty snowman.
+*MOT:	yes.
+*MOT:	what is that?
+*CHI:	turkey.
+*MOT:	what?
+*CHI:	turkey.
+*MOT:	what's that?
+*CHI:	moo.
+*MOT:	a moo?
+*MOT:	yes a cow.
+*CHI:	cow.
+*MOT:	and that?
+*MOT:	that's a duck.
+*CHI:	a duck.
+*MOT:	and what's he saying?
+*MOT:	quack.
+*CHI:	quack.
+*MOT:	and on this farm he had some...
+*CHI:	chick.
+*MOT:	chicks.
+*MOT:	and on this farm he had some...
+*CHI:	pig.
+*MOT:	and on this farm he had some...
+*CHI:	moo.
+*MOT:	he had some cows...
+*CHI:	donkey.
+*MOT:	donkeys.
+*CHI:	two donkey.
+*CHI:	donkey.
+*MOT:	donkey.
+*MOT:	and what do they say?
+*MOT:	they say...
+*MOT:	what happened to these pages?
+*CHI:	xxx happen these pages?
+*MOT:	hm?
+*CHI:	what happ' these pages?
+*MOT:	where are they?
+*MOT:	are they done?
+*CHI:	yeah.
+*CHI:	xxx page gone.
+*MOT:	where did it go?
+*CHI:	where did it go?
+*CHI:	it go.
+*MOT:	looks like somebody tore it.
+*CHI:	somebody tored it.
+*MOT:	what are these?
+*CHI:	oink.
+*MOT:	what are these on the tree?
+*CHI:	apple tree.
+*MOT:	apples yes.
+*MOT:	apple trees.
+*CHI:	all done again.
+[finished book]
+*CHI:	there.
+[finished book]
+*MOT:	what's Old Macdonald doing there?
+*CHI:	horsie.
+*CHI:	the horsie.
+*MOT:	he's doing what?
+*CHI:	he doing what?
+*MOT:	what's that?
+*CHI:	kitty.
+*MOT:	kitty uhhuh.
+*RIC:	and what's that?
+*CHI:	elephant.
+*RIC:	elephant.
+*RIC:	and this?
+*CHI:	animal.
+*RIC:	that's a bunny.
+*RIC:	that's a bunny rabbit.
+*CHI:	bunny rabbit.
+*RIC:	and what's that?
+*CHI:	bear.
+*RIC:	yes a bear.
+*RIC:	and what's that?
+*MOT:	it looks like a baby duck.
+*CHI:	a baby duck.
+*CHI:	that?
+*RIC:	that's a duck.
+*CHI:	a baby duck?
+*RIC:	yeah.
+*RIC:	and what's that?
+*CHI:	doggie.
+*RIC:	a doggie?
+*CHI:	a doggie.
+*RIC:	that's a doggie too.
+*CHI:	a doggie too.
+*RIC:	what's that?
+*CHI:	animal.
+*RIC:	it's a rooster.
+*CHI:	a rooster.
+*RIC:	what did the rooster say?
+*CHI:	moo?
+*RIC:	no.
+*RIC:	cows go moo.
+*RIC:	roosters go cock'doodledoo.
+*CHI:	other book.
+*CHI:	a fish.
+*COL:	oh thank you.
+*COL:	that's nice.
+*COL:	what are those?
+*CHI:	look xxx.
+*COL:	whoops a daisy.
+*COL:	what are those?
+*COL:	this sways backward and forward.
+*COL:	it sways.
+*CHI:	it sway.
+*COL:	it sways.
+*COL:	thank you.
+*CHI:	thank you.
+[taking it.]
+*CHI:	oh my.
+[taking it.]
+*CHI:	xxx Fraser.
+[taking it.]
+*RIC:	thank you.
+*RIC:	what is this?
+*CHI:	xxx Cromer.
+*CHI:	hi.
+*COL:	hi.
+*CHI:	hi.
+*COL:	I can see you.
+*COL:	I can see Eve.
+*CHI:	hi.
+*COL:	I can see you.
+*COL:	can you see me?
+*CHI:	hi.
+[not appropriate]
+*CHI:	hi.
+[not appropriate]
+*CHI:	hi.
+[not appropriate]
+*CHI:	see me.
+[not appropriate]
+*COL:	who do you see?
+*CHI:	I see Fraser.
+*COL:	that's right.
+*COL:	and who does Fraser see?
+*CHI:	hi.
+*COL:	see Eve.
+*CHI:	see me.
+[not appropriate]
+*COL:	who do you see?
+*CHI:	hi Cromer.
+*CHI:	I see me xxx.
+*MOT:	hey what are you doing?
+*CHI:	that?
+*MOT:	what is that?
+*MOT:	hm?
+*MOT:	you put it back.
+*CHI:	that?
+*MOT:	it's the dustpan.
+*CHI:	dustpan.
+*MOT:	you put it back in the cupboard please and shut the door.
+*CHI:	hi.
+*CHI:	xxx Cromer.
+*CHI:	a dustpan.
+*MOT:	Eve?
+*CHI:	hm?
+*MOT:	what are you doing?
+*CHI:	the dustpan on shoe.
+*MOT:	on your shoe?
+*MOT:	would you put it back please.
+*MOT:	please?
+*CHI:	no.
+*MOT:	I'll shut the door.
+*MOT:	I'll put it back and shut the door.
+*CHI:	no.
+*MOT:	yes I will.
+*MOT:	we already dusted this morning.
+*MOT:	put it away.
+*CHI:	that?
+*MOT:	that's a pad of paper.
+*MOT:	it belongs to Cromer.
+*MOT:	you give it back.
+*MOT:	it's Cromer's paper.
+*CHI:	that?
+*MOT:	a 'nother one.
+*CHI:	a 'nother one.
+*CHI:	Eve xxx hi.
+*CHI:	see me.
+*CHI:	two xxx.
+*MOT:	two what?
+*CHI:	two xxx.
+*MOT:	they're in cube trays.
+*CHI:	ice cube tray.
+*MOT:	ice cube trays uhhuh.
+*CHI:	xxx sit bottom.
+*MOT:	you're going to sit on your bottom?
+*CHI:	xxx right under.
+*MOT:	do what?
+*CHI:	xxx right under.
+*CHI:	xxx right.
+*CHI:	Eve play bouillon cube.
+*MOT:	with the bouillon cubes?
+*MOT:	no you can't play with the bouillon cubes.
+*MOT:	later.
+*CHI:	later play bouillon cubes.
+*MOT:	later yes.
+*CHI:	later.
+*CHI:	that?
+*CHI:	see that [taperecorder].
+*MOT:	Eve.
+*CHI:	huh?
+*MOT:	be careful.
+*CHI:	oh tape run fast.
+*MOT:	yes it's running fast.
+*CHI:	hi.
+*CHI:	see me.
+*CHI:	there Fraser.
+*CHI:	xxx jump on my stool.
+*CHI:	jump on my stool.
+*CHI:	Eve jump self.
+*CHI:	Eve jump Cromer.
+*CHI:	Eve jump Mommy.
+*MOT:	you're going to jump.
+*MOT:	okay.
+*MOT:	let's see you.
+*CHI:	let see you.
+*MOT:	jump.
+*MOT:	yes.
+*MOT:	let's see you jump.
+*CHI:	xxx see you jump down.
+*MOT:	cmon.
+*MOT:	big jump.
+*CHI:	big jump.
+*MOT:	big jump.
+*CHI:	Fraser do it Eve.
+*MOT:	Fraser do it to Eve?
+*MOT:	what do you mean?
+*MOT:	well we're all watching.
+*MOT:	cmon we're all watching.
+*MOT:	you can jump now.
+*MOT:	jump.
+*CHI:	Cromer Fraser jump.
+*MOT:	oh they don't wanna jump.
+*COL:	we could make too much of a noise if we jumped.
+*MOT:	if we jumped we'd go boom!
+*CHI:	jump.
+*MOT:	yes jump.
+*MOT:	you jump.
+*CHI:	you jump.
+*MOT:	you jump.
+*MOT:	that's it.
+*MOT:	cmon.
+*MOT:	oh.
+*MOT:	that's not a jump.
+*MOT:	no indeed.
+*CHI:	xxx 'gain.
+*MOT:	well I think you would do it again.
+*MOT:	you jump this time.
+*CHI:	Eve jump this time.
+*MOT:	this time yes.
+*MOT:	cmon.
+*MOT:	jump.
+*MOT:	oh Eve.
+*MOT:	that's not very good at all.
+*CHI:	xxx jump xxx rug.
+*CHI:	jump xxx rug.
+*MOT:	jump off the stool.
+*CHI:	xxx doing Mommy.
+*MOT:	I'm icing the cookies Eve.
+*CHI:	ice the cookies.
+*MOT:	yes.
+*CHI:	xxx sit on stool.
+*MOT:	you sit on my stool.
+*MOT:	alright.
+*CHI:	I sit Mommy stool.
+*MOT:	alright.
+*MOT:	sit right there.
+*CHI:	sit a right there.
+*MOT:	right there.
+*CHI:	Fraser Cromer.
+*RIC:	hi.
+*CHI:	hi.
+*RIC:	hi.
+*CHI:	hot.
+*MOT:	it is very hot.
+*CHI:	very hot.
+*MOT:	very hot.
+*CHI:	xxx Hippityhop.
+[book title]
+*RIC:	what's that?
+[reading book with Eve]
+*CHI:	kitty.
+*MOT:	kitty yes.
+*RIC:	" and we say a boy I know with a..."
+[reading]
+*CHI:	truck going.
+*RIC:	a truck going.
+[reading]
+*RIC:	" with a truck that can go and a shiny..."
+[reading]
+*CHI:	plane.
+*RIC:	a what?
+*CHI:	plane.
+*RIC:	plane yes.
+*RIC:	and a...
+*RIC:	that's a weather vane.
+*CHI:	a weather vane.
+*RIC:	it has a rooster on top.
+[reading]
+*RIC:	and it shows the directions.
+[reading]
+*RIC:	and a man with buttons on his coat.
+[reading]
+*RIC:	what kind of person do you think that is?
+[reading]
+*RIC:	I bet that's a policeman.
+*CHI:	I bet policeman.
+*RIC:	and they're looking in a store window and they see a...
+*RIC:	what's this?
+*RIC:	what kind of animal is that?
+*RIC:	a giraffe.
+*RIC:	balls and drums.
+*RIC:	and what's that?
+*CHI:	car.
+*RIC:	car.
+*RIC:	and what's that?
+*CHI:	boat.
+*RIC:	boat.
+*RIC:	uhhuh.
+*RIC:	a big sailboat.
+*RIC:	what are these?
+*CHI:	cat.
+*RIC:	cats.
+*RIC:	and what are they doing?
+*CHI:	look the funny hat.
+[on the next page]
+*RIC:	what are the cats doing?
+*CHI:	sleepy.
+[book says "two sleepy cats"]
+*RIC:	what are they doing?
+*CHI:	flower.
+*RIC:	that's a flower.
+*RIC:	yes.
+*RIC:	what are the cats doing?
+*RIC:	who's wearing the uh round hat?
+*CHI:	round hat.
+*RIC:	this hat's a round hat.
+*CHI:	round hat.
+*RIC:	that one's a kind of a triangle hat isn't it?
+*RIC:	now what's happening?
+*CHI:	horsie.
+*RIC:	horsie.
+*RIC:	what's the horsie doing?
+*CHI:	horsie doing?
+*RIC:	what is the horsie doing?
+*RIC:	what's this?
+*RIC:	that's a truck.
+*RIC:	and the horsie is pulling the truck.
+*CHI:	horse pull truck.
+*RIC:	horsie is pulling the truck.
+*CHI:	horsie pull truck.
+*RIC:	what are they doing there?
+*CHI:	there water.
+*RIC:	they're in the water.
+*RIC:	what are they doing?
+*CHI:	splash horsie.
+*RIC:	doing what?
+*CHI:	xxx horsie.
+*RIC:	they're splashing.
+*CHI:	they're splashing.
+*RIC:	now what is happening?
+*CHI:	xxx now happen xxx.
+*RIC:	what are these people doing?
+*CHI:	people doing.
+*RIC:	where are they doing?
+*RIC:	they're digging a hole.
+*CHI:	digging hole.
+*CHI:	bug.
+*RIC:	bug.
+*RIC:	uhhuh.
+*RIC:	what's this man doing?
+*CHI:	this man doing.
+*RIC:	what's he doing?
+*RIC:	he's making popcorn.
+*CHI:	make popcorn.
+*RIC:	now if he sells popcorn what will we do?
+*RIC:	we'll buy some maybe.
+*CHI:	we'll buy some.
+*CHI:	baby.
+[picture in book]
+*RIC:	baby.
+*RIC:	uhhuh.
+*CHI:	dingdong bell.
+*RIC:	what's he doing?
+*CHI:	smell the flower.
+*RIC:	he's doing what?
+*CHI:	smell flower.
+*RIC:	smell flower.
+*RIC:	smelling the flower.
+*RIC:	who's this?
+*RIC:	what?
+*CHI:	dingdong bell.
+*RIC:	he's ringing the bell.
+*RIC:	dingdong bell.
+*RIC:	that's the ice cream man.
+*CHI:	ice cream man.
+*RIC:	he's selling ice cream.
+*CHI:	he sell ice cream.
+*RIC:	if he sells ice cream what will we do?
+*CHI:	sell ice cream xxx.
+*RIC:	huh?
+
+= = = childes/CHILDES_NA/Brown/Eve/020100b.cha = = =
+*CHI:	let me turn that [footage meter].
+*COL:	oh no.
+*COL:	that's fine now.
+*COL:	that's just at the right place.
+*COL:	see we've got three.
+*CHI:	four.
+*COL:	and here's four.
+*COL:	and there's...
+[prompting]
+*CHI:	one.
+*COL:	no five.
+*COL:	and...
+[prompting]
+*CHI:	two.
+*COL:	six.
+*CHI:	and that two.
+*COL:	is that two?
+*COL:	I don't think it is.
+*CHI:	that fine.
+*COL:	yep that's fine.
+*CHI:	there your paper.
+*COL:	yep.
+*COL:	what were you doing outside?
+*CHI:	xxx when you wasn't here.
+*CHI:	I don't wear my sweatshirt.
+*MOT:	you don't hafta wear it.
+*MOT:	I'm go to fold it up.
+*MOT:	what were you doing out there with Becky?
+*MOT:	hm Eve?
+*CHI:	eh?
+*MOT:	what were you doing out there with Becky?
+*CHI:	playing and getting some medicine for our horses.
+*MOT:	getting some medicine for your horses?
+*MOT:	why were they sick?
+*CHI:	no dead.
+*MOT:	that's even worse.
+*MOT:	did the medicine make them better?
+*CHI:	yeah.
+*CHI:	Sue you ironed these [clean clothes]?
+*MOT:	what.
+*CHI:	ironed these?
+*MOT:	I ironed them.
+*CHI:	xxx and my pants?
+[stuttering]
+*MOT:	that's right.
+*CHI:	I want fold the diapers with you.
+*MOT:	you may do it.
+*CHI:	this way?
+*MOT:	yeah that's pretty good.
+*MOT:	but those you don't hafta fold.
+*MOT:	these are already folded.
+*CHI:	hm?
+*MOT:	you don't hafta fold those.
+*MOT:	this one needs folded though.
+*MOT:	I'll trade you.
+*MOT:	give me that one.
+*CHI:	and this one.
+*MOT:	that one needs to be folded yes.
+*CHI:	helping Mama.
+*MOT:	you are indeed.
+*CHI:	xxx Papa go put my jammies on.
+*MOT:	well tonight he will put your jammies on.
+*MOT:	not now.
+*MOT:	you don't wear jammies when you take a nap.
+*CHI:	Noel wear jammies when he [she] take a nap?
+*MOT:	who?
+*CHI:	Noel.
+*MOT:	Noel?
+*CHI:	yep.
+*MOT:	yes Noel wears pajammies when she takes a nap.
+*CHI:	Noel.
+*MOT:	Noel uhhuh.
+*CHI:	what 'm I doing?
+*MOT:	what are you doing?
+*MOT:	turn a somersault.
+*MOT:	that was good Eve.
+*CHI:	this is to be folded?
+*MOT:	yes that needs to be folded.
+*CHI:	there folded.
+*MOT:	alright.
+*MOT:	why don't you take the bibs out on to the counter for me please?
+*CHI:	mine and Sarah's.
+*MOT:	yes yours and Sarah's.
+*CHI:	[takes bibs to kitchen].
+*MOT:	what a big help.
+*CHI:	[bumps her chin].
+*MOT:	well we don't needta go to a doctor and put a bandaid on it this time.
+*MOT:	it's just a bump.
+*MOT:	it didn't cut your chin.
+*MOT:	just a bump.
+*CHI:	just a bump.
+*MOT:	just a bump.
+*CHI:	my chin.
+*MOT:	you really clonked it.
+*MOT:	let me see.
+*MOT:	it's red back there.
+*CHI:	it red.
+*CHI:	no more grape juice.
+*MOT:	what?
+*CHI:	no more grape juice.
+*MOT:	well you ask me the right way and I might get you some.
+*CHI:	please.
+*MOT:	just one minute please.
+*CHI:	Fraser?
+*MOT:	Fraser what?
+*CHI:	Fraser go get some.
+*MOT:	grape juice?
+*MOT:	no.
+*CHI:	you get going to do it.
+*MOT:	I am going to do it.
+*MOT:	right.
+*CHI:	I want xxx my tapioca.
+*MOT:	well you'll have that afterwards.
+*MOT:	it's not time for tapioca yet.
+*CHI:	let me taste it a little bit.
+*MOT:	you wanna taste it a little bit?
+*MOT:	just one little taste?
+*MOT:	how's that?
+*COL:	is your grape juice good?
+*CHI:	it grape juice.
+*CHI:	grape juice.
+*COL:	yep.
+*MOT:	hey what are you doing?
+*CHI:	getting me some pencils.
+[takes one]
+*COL:	is that some pencils?
+[pointing to the one pencil]
+*CHI:	some pencils.
+[Note inflection]
+*CHI:	xxx coffee.
+[Note inflection]
+*CHI:	Mom'll go get somes.
+[Note inflection]
+*CHI:	I go get a sugar.
+[Note inflection]
+*CHI:	you have some.
+[Note inflection]
+*COL:	thank you.
+*CHI:	you want some?
+*MOT:	I have some.
+*CHI:	this way Fraser.
+[moving the spoon slightly,]
+*CHI:	this way.
+*CHI:	a pencil.
+*CHI:	oh that a pencil.
+*CHI:	ready a e a.
+[scribbles]
+*CHI:	what xxx doing?
+*CHI:	Becky.
+*MOT:	no I open xxx the window so I can hear Sarah when she wakes up.
+*CHI:	e a e a.
+*CHI:	there a.
+*COL:	what are you doing?
+*CHI:	writing on you a.
+[appropriate]
+*COL:	that's right.
+*CHI:	I goin' write down there.
+*CHI:	[writes,].
+*CHI:	write down there.
+*CHI:	go sit with you.
+[sits down]
+*COL:	alright.
+*CHI:	I go put my grape juice right there by you coffee.
+*CHI:	there.
+*CHI:	Sue what Nancy an' Becky doing?
+*MOT:	Nancy and Becky?
+*MOT:	I don't see Nancy and Becky.
+*CHI:	Marcia.
+*MOT:	is Marcia there too?
+*CHI:	I hab get my grape juice.
+*CHI:	there.
+*COL:	what's that I'm drawing?
+*CHI:	hm?
+*COL:	what's that I'm drawing?
+*CHI:	a lady.
+*CHI:	write a man.
+*COL:	where's the lady?
+*CHI:	right there.
+*COL:	thought it was a man.
+*COL:	well he needs a haircut.
+*CHI:	write he finger.
+*COL:	what?
+*CHI:	write he finger.
+*COL:	there.
+*COL:	what's that?
+*CHI:	a lady.
+*COL:	a lady?
+*COL:	d' you not think that's a man?
+*CHI:	it a lady.
+*COL:	okay it's a lady.
+*CHI:	and that's man.
+*COL:	oh that's a man.
+*COL:	okay.
+*COL:	let's draw another man.
+*COL:	there.
+*COL:	is that a man?
+*CHI:	yeah.
+*CHI:	two men.
+*CHI:	two a big one and a little one.
+*COL:	which is the big one?
+*COL:	show me the big one.
+*CHI:	[points appropriately].
+*COL:	that's right.
+[prompting]
+*COL:	that's a man and that's a man.
+[prompting]
+*COL:	so there are two...
+[prompting]
+*CHI:	mans.
+[Mother said that Eve once corrected Mother's "men" to "mans"]
+*MOT:	when it's one it's “man ” and when there're two it's...
+[prompting]
+*CHI:	mens.
+*MOT:	no s.
+*MOT:	men.
+*MOT:	only men.
+*CHI:	men.
+*CHI:	only men.
+*MOT:	that's right.
+*CHI:	I drink my grape juice.
+*CHI:	drink you coffee.
+*COL:	okay.
+*CHI:	Mommy I have candle in my birthday cake.
+*MOT:	candle?
+*MOT:	is that it right there?
+*MOT:	I don't think you'd better put that pencil in the couch.
+*MOT:	pencils don't belong in couches.
+*CHI:	where is birthday cake.
+*MOT:	where is the birthday cake?
+*MOT:	I don't know.
+*MOT:	what did you do with it?
+*MOT:	please don't put the pencil in the couch.
+*CHI:	in the couch.
+*MOT:	yes.
+*CHI:	there hole.
+*MOT:	it will make a great big hole if you put it in there again.
+*CHI:	it'll make a great big hole.
+[note will and 'll]
+*COL:	you will yeah.
+*CHI:	I go make it.
+*MOT:	don't you make it.
+*MOT:	I'll smack your bottom if you make a hole in there.
+*CHI:	I go make a great big hole in my pants.
+*MOT:	in your pants?
+*MOT:	well that's not a very good idea either.
+*CHI:	there.
+*MOT:	did you make a great big hole?
+*CHI:	uhhuh.
+*COL:	no you didn't.
+*CHI:	I laying down.
+[appropriate intransitive]
+*MOT:	I know you are.
+*MOT:	don't do that again or I'll take the pencil away.
+*CHI:	you not go take it away.
+*MOT:	I will.
+*CHI:	no.
+*MOT:	yes I will.
+*CHI:	not go have it...
+*CHI:	you go put pencil away I go have it.
+*MOT:	you may have it.
+*MOT:	but don't poke it in the couch or I will take it away.
+*CHI:	it belong on my head.
+*MOT:	it doesn't belong on your head.
+*CHI:	where it goed?
+*MOT:	where did it go?
+*CHI:	bite it.
+*MOT:	bite it?
+*MOT:	I don't wanna bite it.
+*CHI:	I bite it.
+*COL:	why do you wanna bite it?
+*COL:	eh what?
+*COL:	why do you wanna bite the pencil?
+*CHI:	no I don't wanna bite it.
+*CHI:	Fraser drink your coffee.
+*CHI:	drink your coffee.
+*COL:	okay.
+*CHI:	I go sing Lee na levey.
+*MOT:	you're gonna do what?
+*CHI:	Hee na levey.
+*MOT:	who was singing that?
+*CHI:	Becky and Eve sing Lee na levey.
+*MOT:	when do you say that?
+*CHI:	Hee no.
+*MOT:	when do say that?
+*MOT:	when?
+*MOT:	what do you do when you say that?
+*CHI:	outside in the sandbox Lee na levey lee no.
+*MOT:	what are you doing when you say that?
+*CHI:	Hee na levey lee no.
+*CHI:	when Pop comes home I go sing Lee na levey hee no.
+*MOT:	I don't think he wants you to say Leeny levey heeny or whatever you're saying.
+*CHI:	Hee na hevey lee no.
+*CHI:	I want sing Lee na levey lee no.
+*MOT:	well you go ahead and sing it.
+*COL:	yes sing it for us.
+*CHI:	huh?
+*COL:	you sing it for us.
+*CHI:	no I don't wanna.
+*MOT:	okay.
+*CHI:	rock a bye baby in...
+*CHI:	sing with me.
+*MOT:	sing with you?
+*MOT:	you sing by yourself.
+*CHI:	no sing it with me.
+*MOT:	you don't need me to sing with you.
+*CHI:	you sing with me.
+*MOT:	what d' you wanna sing?
+*CHI:	rock a bye baby.
+*MOT:	you can sing rock a bye baby all by yourself.
+*CHI:	do it with me.
+*MOT:	do it with you?
+*MOT:	alright.
+*MOT:	you start.
+[sings rock a bye baby]
+[Eve seems to know almost all the words including when, will]
+[sings rock a bye baby]
+*COL:	that's very nice.
+*COL:	very nice.
+*CHI:	I go...
+*MOT:	you're gonna what?
+*CHI:	I want some more grape juice.
+*MOT:	no more grape juice.
+*MOT:	is it all gone out of your cup?
+*MOT:	did you drink two cups of grape juice?
+*CHI:	yep.
+*MOT:	you must 've been thirsty.
+*CHI:	I want some more.
+*MOT:	no we'll have milk for lunch.
+*CHI:	hm?
+*MOT:	we'll have milk for lunch.
+*CHI:	Hee no honny hee no.
+*CHI:	Hee no honny hee no outside.
+*MOT:	outside yes.
+*MOT:	what are you doing Miss?
+*CHI:	I seeing Becky and Nancy.
+*MOT:	Becky and Nancy are busy.
+*CHI:	huh?
+*MOT:	they're having their lunch I think.
+*CHI:	huh?
+*CHI:	Nancy having he lunch in Becky house.
+*MOT:	I don't think so no.
+*MOT:	I don't hear Becky out in the yard.
+*MOT:	no she's not having her lunch in Becky's yard.
+*CHI:	I want have lunch.
+*MOT:	alright.
+*CHI:	it time for my lunch.
+*MOT:	I think it's time for your lunch.
+*MOT:	alright.
+*MOT:	how's your tummy feeling?
+*MOT:	is it better?
+*CHI:	yep.
+*MOT:	I'm awfully glad.
+*CHI:	see?
+[pulling up shirt]
+*MOT:	yeah I see it on the outside.
+*MOT:	how 's it feel inside?
+*MOT:	hm?
+*CHI:	inside?
+*MOT:	inside yes.
+*MOT:	how 's it feel?
+*CHI:	inside.
+*MOT:	inside mhm.
+*MOT:	way inside.
+*CHI:	way inside.
+*MOT:	how 's it feel?
+*MOT:	is it better?
+*CHI:	way inside.
+*MOT:	way inside mhm.
+[Eve seemed obviously unable to make anything of the preceding questions]
+*CHI:	Fraser go see me have my lunch.
+*MOT:	yes he xxx go see you have your lunch.
+*MOT:	climb in your highchair.
+*CHI:	let move it.
+[note let without me]
+*MOT:	let's move it.
+*MOT:	okay climb in.
+*CHI:	I want have my tapioca.
+*MOT:	alright.
+*MOT:	I made some for you.
+*CHI:	you made some.
+*MOT:	yes just for you.
+*MOT:	'cause I know how much you like it.
+*CHI:	my arm.
+*MOT:	what?
+*CHI:	see.
+*MOT:	what did you do?
+*CHI:	wipe it off.
+*MOT:	I will wipe it off.
+*MOT:	what did you do?
+*MOT:	how'd it get dirty.
+*MOT:	oh you have a scratch on there.
+*MOT:	wait I'll do it very gently.
+*CHI:	a scratch.
+*MOT:	see you got a little scratch on there.
+*MOT:	wait I'll wipe this one first.
+*MOT:	one at a time.
+*CHI:	and this one.
+*MOT:	what dirty hands little girl.
+[rhetorical question]
+*MOT:	what have you been doing?
+[rhetorical question]
+*CHI:	playing outside.
+*COL:	oh what did you do Eve?
+*CHI:	my elbow.
+*MOT:	your elbow?
+*MOT:	does it hurt?
+*CHI:	yeah.
+*MOT:	that's just a little scratch.
+*MOT:	it'll be better.
+*CHI:	Fraser go watch me eat my lunch.
+*MOT:	yes he's go watch you eat your lunch.
+*CHI:	it don't have some tapioca in it.
+*MOT:	hm?
+*CHI:	don't have some tapioca in it.
+*MOT:	what?
+*CHI:	that.
+*MOT:	it does now.
+*CHI:	hm?
+*MOT:	it does now.
+*MOT:	'cause I'm putting some in.
+*CHI:	where my spoon?
+*MOT:	well if you wait for just a minute I'll get a spoon.
+*CHI:	Fraser.
+*COL:	yes.
+*MOT:	[goes to window].
+*CHI:	xxx Sarah.
+*MOT:	what?
+*CHI:	you don't hear Sarah.
+*MOT:	what?
+*CHI:	you don't hear Sarah.
+*MOT:	I don't hear her.
+*MOT:	no I don't hear her.
+*MOT:	she's sleeping.
+*CHI:	Fraser.
+*COL:	hi.
+*CHI:	Fraser.
+*COL:	good day Eve.
+*CHI:	that you jacket.
+*MOT:	yep.
+*MOT:	that's right.
+*MOT:	that's my jacket.
+*CHI:	what's that?
+*COL:	a cracker.
+*COL:	a different kind of cracker.
+*CHI:	a different kind of cracker.
+*CHI:	what that?
+*MOT:	that's called a sesame seed cracker.
+*CHI:	what it got on?
+*MOT:	seeds.
+*CHI:	I like seeds.
+*MOT:	yes I think you'll like it.
+*CHI:	I can't eat it.
+*MOT:	why not?
+*MOT:	not the seed eat the cracker.
+*MOT:	take a bite of the cracker.
+*CHI:	I eat xxx my teeth.
+*MOT:	did you what?
+*CHI:	I eat xxx my teeth.
+*MOT:	oop.
+*CHI:	what you do?
+*MOT:	I dropped xxx.
+*CHI:	you xxx some tomato soup?
+*MOT:	no vegetable soup.
+*MOT:	xxx you like to have some?
+*CHI:	no.
+[Colin's arm is hanging loosely over chair]
+*CHI:	what Fraser doing with he arm.
+[Colin's arm is hanging loosely over chair]
+*MOT:	what is he doing?
+*COL:	yeah what'm I doing?
+*CHI:	I goin' have bite of the seed.
+*MOT:	you're gonna have a bite of the seed.
+*MOT:	well why don't you take a bite of the cracker?
+*MOT:	then you'll get seeds and cracker.
+*CHI:	eh?
+*MOT:	take a bite of the cracker and then you'll get both.
+*CHI:	I have get this off.
+*MOT:	you're picking off the seeds?
+*CHI:	yeah.
+*CHI:	remember we goed to Peabody School and have...
+*MOT:	have what?
+*CHI:	have some xxx at Peabody School.
+*MOT:	no not xxx at the Peabody School.
+*MOT:	what did you have at the Peabody School?
+*MOT:	hm?
+*CHI:	no.
+*CHI:	what do Eve have at the Peabody School?
+*MOT:	what did you get when you went there?
+*MOT:	vaccine.
+*CHI:	vaccine.
+*CHI:	and get my airplane.
+*MOT:	hm?
+*CHI:	at Cathy.
+*CHI:	and get my airplane.
+*MOT:	that's right.
+*MOT:	we went to Cathy's and got your airplane 'cause you left it there in the morning.
+*CHI:	this afternoon.
+*MOT:	I can't hear you.
+*MOT:	what?
+*CHI:	this afternoon when I wake up my nap.
+*MOT:	this afternoon when you wake up your nap what?
+*CHI:	we go to Peabody School.
+*MOT:	no.
+[Mother tells Fraser that "this afternoon when I wake up my nap" seems to be a general reference to the future. And, "Remember" generally precedes reference to more distant past.]
+*MOT:	we already did go to the Peabody School.
+*MOT:	not again.
+*CHI:	when I wake up my nap.
+*MOT:	want some cheese?
+*MOT:	xxx cheese?
+*CHI:	yep.
+*MOT:	what kind?
+*CHI:	orange please.
+*MOT:	the orange one?
+*MOT:	alright.
+*CHI:	you have tongue?
+%add:	COL
+*COL:	hm?
+*CHI:	you hab tongue?
+%add:	COL
+*COL:	yep.
+*CHI:	Papa and Mama and Nanna.
+*COL:	yeah.
+*CHI:	and Taffy too.
+*MOT:	Taffy too has a tongue.
+*CHI:	Taffy too has tongue.
+*MOT:	everybody has a tongue.
+*CHI:	and...
+*CHI:	and Granny and Granpa have tongues.
+*MOT:	yep.
+*CHI:	we all have tongues.
+*MOT:	that's right.
+*CHI:	Sue what's that?
+*MOT:	cheese.
+*CHI:	what cheese?
+*MOT:	gruyere cheese is its name.
+*MOT:	gruyere cheese.
+*CHI:	let me peel it.
+*MOT:	no I'll peel it.
+*CHI:	I wanna peel it.
+*MOT:	no.
+*CHI:	I wanna peel it.
+*MOT:	no you can't peel it.
+*CHI:	[gets a piece of cheese, gets a piece of cheese,].
+*CHI:	this is a man.
+[gets a piece of cheese,]
+*MOT:	what's that man doing?
+*CHI:	he sitting.
+*MOT:	sitting?
+*CHI:	a man.
+[sing-song]
+*CHI:	a man.
+[sing-song]
+*CHI:	a man.
+[sing-song]
+*CHI:	a man.
+[sing-song]
+*CHI:	a man.
+[sing-song]
+*CHI:	a man.
+[sing-song]
+*MOT:	is it one man?
+*CHI:	not two mens.
+*MOT:	not two mens.
+*MOT:	just one man.
+*CHI:	no men.
+*CHI:	I want another men.
+*MOT:	you want another man?
+*MOT:	where?
+*CHI:	men.
+*CHI:	men please.
+*MOT:	men please.
+*MOT:	where will I get them?
+*CHI:	in the...
+[stuttering]
+*CHI:	man in the men in the box.
+[stuttering]
+*MOT:	in what box?
+*MOT:	xxx another piece of cheese to make another man?
+*MOT:	will you eat it?
+*CHI:	and I go eat it too.
+*MOT:	well I hope so.
+*CHI:	you say mens.
+*MOT:	men.
+*MOT:	you say men.
+*CHI:	men.
+*CHI:	you say men with you cheese.
+*MOT:	with my cheese?
+*MOT:	I'm gonna eat my cheese.
+*MOT:	I'm not gonna play with it.
+*CHI:	man.
+*CHI:	men.
+*CHI:	I say men.
+*MOT:	I hear you.
+*CHI:	I want some more tapioca.
+*MOT:	you want some more?
+*MOT:	you have some.
+*CHI:	I want some pepper.
+*MOT:	pepper?
+*MOT:	not on tapioca Eve.
+*MOT:	you put pepper on soup.
+*MOT:	you don't put pepper on tapioca.
+*CHI:	I want some pepper on tapioca.
+*MOT:	no you don't do that.
+*CHI:	xxx right here.
+*MOT:	what?
+*CHI:	right here.
+*MOT:	right here what?
+*CHI:	right here by my plate.
+*MOT:	right here by your plate what?
+*CHI:	right here please.
+*MOT:	what do you want there please?
+*CHI:	tapioca please I want here.
+*MOT:	you already have it right there.
+*CHI:	no this way?
+*MOT:	uhhuh.
+*CHI:	this way?
+*MOT:	yes that's the right end of the spoon.
+*CHI:	Sue let me cut xxx in little pieces.
+*MOT:	cut what in little pieces?
+*CHI:	this.
+*MOT:	what?
+*CHI:	this cheese.
+*MOT:	I already cut it in little pieces.
+*CHI:	let me cut it in little pieces.
+*MOT:	hunm.
+*CHI:	you cut it in little pieces and bite it this way.
+*MOT:	see you biting it that way.
+*MOT:	you're chewing it up with your teeth.
+*CHI:	I go make a man.
+*MOT:	that's not clay Eve.
+*MOT:	that's cheese.
+*MOT:	you can't squeeze it and make a man.
+*CHI:	hm?
+*MOT:	with clay you can.
+*MOT:	but that's cheese.
+*CHI:	this isn't clay.
+[Note 's not/ isn't]
+*MOT:	it's not clay no.
+*MOT:	the clay's in the toy box.
+*MOT:	the clay is in the toy box.
+*CHI:	after lunch make a man.
+*MOT:	when?
+*CHI:	in a bag.
+*MOT:	it's in a bag yeah.
+*CHI:	let me have it.
+*MOT:	not now.
+*MOT:	you're having lunch.
+*CHI:	after I eat lunch I gonna have clay.
+*MOT:	no.
+*MOT:	when you wake up from your nap you can have clay.
+*CHI:	to eat it?
+*MOT:	to eat it?
+*MOT:	no.
+*MOT:	you don't eat clay.
+*CHI:	it to chew on?
+*MOT:	it's not to chew on either.
+*MOT:	it's to play with.
+*MOT:	you squeeze clay and make things.
+*CHI:	make a man.
+*MOT:	uhhuh.
+*CHI:	where is a man?
+*MOT:	what kind of man d' you want?
+*MOT:	hm?
+*CHI:	no.
+*MOT:	no what?
+*CHI:	no man.
+*MOT:	hunm.
