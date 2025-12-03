@@ -1,9 +1,8 @@
-# BabyLM-Tiny
-A small version of the [BabyLM Challenge](https://babylm.github.io/). 
+https://huggingface.co/learn/llm-course/en/chapter6/5 to read about byte-pair encoding tokenization 
 
+file_to_pinyin => to convert files to pinyin, i/o: sample_text/sample_text_output
 
-## Usage
-
-The `train.ipynb` file allows you to train a decoder model from scratch with 1M words from the original BabyLM dataset.
-
-For evaluation, use [the official evaluation pipeline](https://github.com/babylm/evaluation-pipeline-2025).
+character_mapping => combines pinyin_frequency with character_frequency_heatmap
+hanzi_pinyin => to convert characters to corresponding pinyin 
+pinyin_frequency => frequency mapping of initial letter to corresponding character
+character_frequency_heatmap => connected with the above to visualise cross referencing heatmap 
