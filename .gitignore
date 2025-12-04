@@ -165,5 +165,5 @@ cython_debug/
 zho_data/
 sample_text_first_letters.csv
 sample_text_output.csv
-# zho_frequency/
+zho_frequency/
 # zho_train.ipynb
